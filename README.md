@@ -23,4 +23,4 @@ If you'd like to contribute to InstaSpyBot, feel free to submit a pull request w
 
 ## License
 
-InstaSpyBot is licensed under the MIT license. See LICENSE.txt for more details.
+InstaSpyBot is licensed under the MIT license. See [LICENSE](LICENSE) for more details.
